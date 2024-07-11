@@ -1,2 +1,4 @@
 # Database-management-System-Project
-DBMS project.
+This DBMS project is a comprehensive photography booking and management system designed for a professional studio, using SQL to handle customer details, session scheduling, orders, photo management, and refunds. It includes various tables such as Customer, SessionTimes, SessionType, Booking, Customer_Order, Photograph, PhotoDetails, Refund, Destination, and PostalCharge, all integrated to ensure efficient data management and integrity. Key features include customer management, session scheduling, order processing, and photo management, with a specific trigger for enforcing a three-day advance notice for cancellations to qualify for refunds. The project also features example data with historical figures like Albert Einstein and Marie Curie, demonstrating its robust capability to manage complex business requirements in a user-friendly manner.
+
+
